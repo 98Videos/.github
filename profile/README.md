@@ -11,7 +11,7 @@ ______________________________
 # Integrantes do grupo
 - André Torres Corrêa
 - Angelo Costa Neto
-- Mauro Tuyoshi Imamura Júnio
+- Mauro Tuyoshi Imamura Júnior
 ______________________________
 # Arquitetura 
 O sistema foi desenvolvido com uma arquitetura de microsserviços, implantada em um cluster EKS (Kubernetes) na AWS. A comunicação entre os serviços é feita de forma assíncrona através de mensageria, utilizando o Amazon SQS. O serviço media-management-api armazena o status dos vídeos em um banco de dados Postgres e realiza o upload dos vídeos para um bucket S3, configurado exclusivamente para armazenar vídeos.
