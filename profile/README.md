@@ -33,8 +33,6 @@ A autenticação é feita pelo serviço padrão do cognito
 ____________________________
 # Infraestrutura
 O provisionamento de infraestrutura é feito via Terraform nos seguintes repositórios:
-- media-management-api
-- video-processor-worker
 - infrastructure
 ____________________________
 # Stack
