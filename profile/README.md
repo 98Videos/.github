@@ -22,7 +22,8 @@ A media-management-api, ao receber a atualização de status do processamento, n
 
 Todo o provisionamento da infraestrutura é automatizado e gerenciado via Terraform, com repositórios dedicados para Infraestrutura como Código (IaC), garantindo uma gestão eficiente e escalável da infraestrutura. 
 
-![VideosFIAP-Proposta2](https://github.com/user-attachments/assets/3889ee62-cc11-4376-ba90-da148b0d3c2d)
+![VideosFIAP-Proposta2](https://github.com/user-attachments/assets/f22235cd-0cb9-49de-a92b-62c6549c6328)
+
 ____________________________
 # Serviços
 - media-management-api
