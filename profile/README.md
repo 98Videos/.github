@@ -32,7 +32,7 @@ ____________________________
 A autenticação é feita pelo serviço padrão do cognito
 ____________________________
 # Infraestrutura
-O provisionamento de infraestrutura é feito via Terraform nos seguintes repositórios:
+O provisionamento de infraestrutura é feito via Terraform no seguinte repositório:
 - infrastructure
 ____________________________
 # Stack
